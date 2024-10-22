@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/static/css/main.6c2883dc.css",
+    "main.js": "/static/js/main.242756ea.js",
+    "static/js/453.bc3a58b5.chunk.js": "/static/js/453.bc3a58b5.chunk.js",
+    "static/media/bg-body.png": "/static/media/bg-body.8c1afb4514fc057b2842.png",
+    "static/media/game3.png": "/static/media/game3.40f610f4dc34b712aaec.png",
+    "static/media/img-header.png": "/static/media/img-header.8708b298a8cd30059440.png",
+    "static/media/game8.png": "/static/media/game8.45d6d8d35337e71e270e.png",
+    "static/media/game2.png": "/static/media/game2.2e30ae0f4bd625d6bc46.png",
+    "static/media/game10.png": "/static/media/game10.fe8a11a4215d247e2d07.png",
+    "static/media/game1.png": "/static/media/game1.743f85047c4b602a6164.png",
+    "static/media/game9.png": "/static/media/game9.700fc80d68c5a4a6c2a6.png",
+    "static/media/game4.png": "/static/media/game4.12b426dfa999f0aa7a22.png",
+    "static/media/game5.png": "/static/media/game5.95864a4ba44c72f10936.png",
+    "static/media/game7.png": "/static/media/game7.daeedbb35f70fbf6bc7e.png",
+    "static/media/game6.png": "/static/media/game6.07f452b0c7ef188e6875.png",
+    "static/media/bg-footer.png": "/static/media/bg-footer.bd4f21f0ffa4c8aa9f62.png",
+    "index.html": "/index.html",
+    "main.6c2883dc.css.map": "/static/css/main.6c2883dc.css.map",
+    "main.242756ea.js.map": "/static/js/main.242756ea.js.map",
+    "453.bc3a58b5.chunk.js.map": "/static/js/453.bc3a58b5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6c2883dc.css",
+    "static/js/main.242756ea.js"
+  ]
+}
